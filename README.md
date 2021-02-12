@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/krsch/cpp-starter-project.svg?branch=master)](https://travis-ci.org/krsch/cpp-starter-project)
+[![Build Status](https://travis-ci.com/iitp-cxx-course/cpr-example.svg?branch=master)](https://travis-ci.com/iitp-cxx-course/cpr-example)

@@ -27,7 +27,4 @@ conan_cmake_run(
   ENV CONAN_CMAKE_PROGRAM="${CMAKE_COMMAND}" ${ENV}
   )
 
-enable_testing()
-add_subdirectory(external/doctest)
-include(external/doctest/doctest.cmake)
 add_subdirectory(src)
